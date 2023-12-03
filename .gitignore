@@ -1,0 +1,27 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode
+.aider*
+.idea
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+*.egg
+*.so
+*.o
+*.a
+*.vscode
+*.env
+!env.sample
+.venv
+venv
+
+*.session
+*.log
+whitelist.txt
+
+

@@ -1,0 +1,11 @@
+version: "3.1"
+
+services:
+  odbot:
+    build: .
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./config/whitelist.txt:/app/config/whitelist.txt
+

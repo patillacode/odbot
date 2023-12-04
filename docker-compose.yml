@@ -8,4 +8,5 @@ services:
       - .env
     volumes:
       - ./config/whitelist.txt:/app/config/whitelist.txt
+      - ./lists/:/app/lists/
 

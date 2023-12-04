@@ -23,5 +23,5 @@ venv
 *.session
 *.log
 whitelist.txt
-
+lists/*.txt
 

@@ -1,5 +1,3 @@
-from math import log
-
 from telegram import Update
 from telegram.ext import ContextTypes
 
